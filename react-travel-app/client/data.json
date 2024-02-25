@@ -1,0 +1,15 @@
+{
+  "id": 0,
+  "title": "Lofoten Island",
+  "address": {
+    "line": "House 45",
+    "town": "Flakstad",
+    "region": "Lofoten",
+    "country": "Norway",
+    "coords": [13.61514, 68.148995]
+  },
+  "photo": "https://img.freepik.com/free-photo/people-taking-part-sustainable-travel-movement_23-2151049570.jpg?size=626&ext=jpg&uid=R111003286&ga=GA1.1.920325452.1704425261&semt=sph",
+  "website": "https://www.fjordtravel.no/",
+  "description": "Amazing Lofoten Island",
+  "tags": ["nature", "hiking", "mountains"]
+}
